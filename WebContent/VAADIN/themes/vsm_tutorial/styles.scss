@@ -1,0 +1,9 @@
+@import "addons.scss";
+@import "vsm_tutorial.scss";
+
+/* This file prefixes all rules with the theme name to avoid causing conflicts with other themes. */
+/* The actual styles should be defined in vsm_tutorial.scss */
+.vsm_tutorial {
+  @include addons;
+  @include vsm_tutorial;
+}
