@@ -6,11 +6,13 @@ NOTE: This tutorial emphasizes <strong>FUNCTIONALITY</strong> over appearance.
 The default Apache Shrio realm for MySQL is used. Reference the contents of the READ-ME folder for more information.
 
 ##Important Files:
-ivy.xml - required repository references for Apache Shiro
-src/shiro.ini - MySQL and SHA-512 Hashing configuration for Shiro
-WebContent/WEB-INF/web.xml - required for Shiro to function
-WebContent/WEB-INF/lib - required JAR files
-READ-ME - MySQL Files
+<ul>
+<li>ivy.xml - required repository references for Apache Shiro </li>
+<li>src/shiro.ini - MySQL and SHA-512 Hashing configuration for Shiro </li>
+<li>WebContent/WEB-INF/web.xml - required for Shiro to function </li>
+<li>WebContent/WEB-INF/lib - required JAR files </li>
+<li>READ-ME - MySQL Files </li>
+</ul>
 
 ##MySQL EER Diagram:
 ![alt tag](https://raw.github.com/dfsisinni/vsm-tutorial/master/READ-ME/vsm-eer-diagram.png)
