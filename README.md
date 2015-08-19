@@ -1,5 +1,5 @@
 # vsm-tutorial
-This repository contains a tutorial for implementing authentication and authorization in Vaadin with the Apache Shrio Java Security Framework. In this tutorial, Apache Shiro references a MySQL database (vsmtutorial) for user and user role data. SHA-512 Hashing is used for authentication.
+This repository contains a Vaadin Shrio MySQL tutorial. It provides instructions for implementing authentication and authorization in Vaadin with the Apache Shrio Java Security Framework. In this tutorial, Apache Shiro references a MySQL database (vsmtutorial) for user and user role data (2 separate tables). SHA-512 Hashing is used for authentication.
 
 NOTE: This tutorial emphasizes <strong>FUNCTIONALITY</strong> over appearance.
 
