@@ -14,6 +14,11 @@ The default Apache Shrio realm for MySQL is used. Reference the contents of the 
 <li>READ-ME - MySQL Files </li>
 </ul>
 
+##App Login Info:
+<ul>
+<li>Manager:  dfsisinni - dfsisinni</li>
+<li>Customer: jsmith - jsmith</li>
+
 ##MySQL EER Diagram:
 ![alt tag](https://raw.github.com/dfsisinni/vsm-tutorial/master/READ-ME/vsm-eer-diagram.png)
 
